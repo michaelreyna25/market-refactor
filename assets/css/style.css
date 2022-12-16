@@ -15,7 +15,6 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* added position: fixed  */
 
 .header h1 {
     display: inline-block;
@@ -51,7 +50,6 @@ a {
 p {
     font-size: 16px;
 }
-/* added position: relative */
 
 .hero {
     height: 800px;
